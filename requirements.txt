@@ -1,0 +1,6 @@
+openai
+faiss-cpu
+sentence-transformers
+python-dotenv
+docutils
+markdown
